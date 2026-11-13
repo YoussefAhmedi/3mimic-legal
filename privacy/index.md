@@ -113,7 +113,7 @@ We may update this Privacy Policy when our application or data practices change.
 The latest version will be published on this page with its effective date.
 
 ## 11. Contact Us
-
+ 
 For privacy questions, support, or account deletion requests:
 
 **Email:** ivcddvhd@gmail.com
